@@ -43,7 +43,8 @@ The **Swiggy Performance & Delivery Dashboard** provides deep insights into key 
 
 ---
 ## 🖼️ Dashboard Preview
-![Swiggy Performance & Delivery Dashboard](dashboard-preview.png)
+<img width="1852" height="737" alt="Screenshot 2026-10-31 014329" src="https://github.com/user-attachments/assets/b9ad33bb-020e-41ad-a729-5241c7ec92ff" />
+
 
 ---
 
