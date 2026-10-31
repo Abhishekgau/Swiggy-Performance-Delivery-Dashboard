@@ -42,6 +42,10 @@ The **Swiggy Performance & Delivery Dashboard** provides deep insights into key 
 * **Git & GitHub:** Version control and large dataset storage.
 
 ---
+## 🖼️ Dashboard Preview
+![Swiggy Performance & Delivery Dashboard](dashboard-preview.png)
+
+---
 
 ## 📂 Repository Structure
 ```text
